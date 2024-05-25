@@ -21,19 +21,4 @@ The dataset used in this project contains various attributes such as age, gender
 5. **Model Evaluation**: Evaluate the performance of each model using metrics such as accuracy, precision, recall, and F1-score.
 6. **Prediction**: Deploy the trained model to predict whether new individuals are likely to have heart disease based on their health parameters.
 
-## Usage
-
-To use this project:
-1. Clone the repository to your local machine.
-2. Install the required dependencies specified in the `requirements.txt` file.
-3. Run the provided scripts or notebooks to train models and make predictions.
-4. Input new data to the trained model to predict the likelihood of heart disease.
-
-## Dataset Source
-
-The dataset used in this project was obtained from [source].
-
-## Acknowledgements
-
-- This project utilizes various machine learning libraries and tools, including scikit-learn, pandas, and NumPy.
-- We acknowledge the contributions of the dataset creators and maintainers for providing valuable data for research and analysis.
+# Thank You!
